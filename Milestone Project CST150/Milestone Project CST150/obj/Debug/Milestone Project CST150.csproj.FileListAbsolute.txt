@@ -1,0 +1,12 @@
+C:\Users\alcha\source\repos\Milestone Project CST150\Milestone Project CST150\bin\Debug\Milestone Project CST150.exe.config
+C:\Users\alcha\source\repos\Milestone Project CST150\Milestone Project CST150\bin\Debug\Milestone Project CST150.exe
+C:\Users\alcha\source\repos\Milestone Project CST150\Milestone Project CST150\bin\Debug\Milestone Project CST150.pdb
+C:\Users\alcha\source\repos\Milestone Project CST150\Milestone Project CST150\obj\Debug\Milestone Project CST150.csproj.AssemblyReference.cache
+C:\Users\alcha\source\repos\Milestone Project CST150\Milestone Project CST150\obj\Debug\Milestone_Project_CST150.Form1.resources
+C:\Users\alcha\source\repos\Milestone Project CST150\Milestone Project CST150\obj\Debug\Milestone_Project_CST150.Properties.Resources.resources
+C:\Users\alcha\source\repos\Milestone Project CST150\Milestone Project CST150\obj\Debug\Milestone Project CST150.csproj.GenerateResource.cache
+C:\Users\alcha\source\repos\Milestone Project CST150\Milestone Project CST150\obj\Debug\Milestone Project CST150.csproj.CoreCompileInputs.cache
+C:\Users\alcha\source\repos\Milestone Project CST150\Milestone Project CST150\obj\Debug\Milestone Project CST150.exe
+C:\Users\alcha\source\repos\Milestone Project CST150\Milestone Project CST150\obj\Debug\Milestone Project CST150.pdb
+C:\Users\alcha\source\repos\Milestone Project CST150\Milestone Project CST150\obj\Debug\Milestone_Project_CST150.Form2.resources
+C:\Users\alcha\source\repos\Milestone Project CST150\Milestone Project CST150\obj\Debug\Milestone_Project_CST150.Form3.resources

@@ -1,0 +1,12 @@
+C:\Users\alcha\source\repos\Milestone Project\Milestone Project\bin\Debug\Milestone Project.exe.config
+C:\Users\alcha\source\repos\Milestone Project\Milestone Project\bin\Debug\Milestone Project.exe
+C:\Users\alcha\source\repos\Milestone Project\Milestone Project\bin\Debug\Milestone Project.pdb
+C:\Users\alcha\source\repos\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.AssemblyReference.cache
+C:\Users\alcha\source\repos\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.ProductName.resources
+C:\Users\alcha\source\repos\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.ProductName1.resources
+C:\Users\alcha\source\repos\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.Properties.Resources.resources
+C:\Users\alcha\source\repos\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.GenerateResource.cache
+C:\Users\alcha\source\repos\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.CoreCompileInputs.cache
+C:\Users\alcha\source\repos\Milestone Project\Milestone Project\obj\Debug\Milestone Project.exe
+C:\Users\alcha\source\repos\Milestone Project\Milestone Project\obj\Debug\Milestone Project.pdb
+C:\Users\alcha\source\repos\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.Form3.resources
