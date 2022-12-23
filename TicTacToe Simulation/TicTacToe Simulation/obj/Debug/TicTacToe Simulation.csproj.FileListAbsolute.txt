@@ -1,0 +1,10 @@
+C:\Users\alcha\source\repos\TicTacToe Simulation\TicTacToe Simulation\bin\Debug\TicTacToe Simulation.exe.config
+C:\Users\alcha\source\repos\TicTacToe Simulation\TicTacToe Simulation\bin\Debug\TicTacToe Simulation.exe
+C:\Users\alcha\source\repos\TicTacToe Simulation\TicTacToe Simulation\bin\Debug\TicTacToe Simulation.pdb
+C:\Users\alcha\source\repos\TicTacToe Simulation\TicTacToe Simulation\obj\Debug\TicTacToe Simulation.csproj.AssemblyReference.cache
+C:\Users\alcha\source\repos\TicTacToe Simulation\TicTacToe Simulation\obj\Debug\TicTacToe_Simulation.Form1.resources
+C:\Users\alcha\source\repos\TicTacToe Simulation\TicTacToe Simulation\obj\Debug\TicTacToe_Simulation.Properties.Resources.resources
+C:\Users\alcha\source\repos\TicTacToe Simulation\TicTacToe Simulation\obj\Debug\TicTacToe Simulation.csproj.GenerateResource.cache
+C:\Users\alcha\source\repos\TicTacToe Simulation\TicTacToe Simulation\obj\Debug\TicTacToe Simulation.csproj.CoreCompileInputs.cache
+C:\Users\alcha\source\repos\TicTacToe Simulation\TicTacToe Simulation\obj\Debug\TicTacToe Simulation.exe
+C:\Users\alcha\source\repos\TicTacToe Simulation\TicTacToe Simulation\obj\Debug\TicTacToe Simulation.pdb
