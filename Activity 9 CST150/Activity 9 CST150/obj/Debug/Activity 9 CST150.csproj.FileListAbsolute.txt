@@ -1,0 +1,10 @@
+C:\Users\alcha\source\repos\Activity 9 CST150\Activity 9 CST150\bin\Debug\Activity 9 CST150.exe.config
+C:\Users\alcha\source\repos\Activity 9 CST150\Activity 9 CST150\bin\Debug\Activity 9 CST150.exe
+C:\Users\alcha\source\repos\Activity 9 CST150\Activity 9 CST150\bin\Debug\Activity 9 CST150.pdb
+C:\Users\alcha\source\repos\Activity 9 CST150\Activity 9 CST150\obj\Debug\Activity 9 CST150.csproj.AssemblyReference.cache
+C:\Users\alcha\source\repos\Activity 9 CST150\Activity 9 CST150\obj\Debug\Activity_9_CST150.Form1.resources
+C:\Users\alcha\source\repos\Activity 9 CST150\Activity 9 CST150\obj\Debug\Activity_9_CST150.Properties.Resources.resources
+C:\Users\alcha\source\repos\Activity 9 CST150\Activity 9 CST150\obj\Debug\Activity 9 CST150.csproj.GenerateResource.cache
+C:\Users\alcha\source\repos\Activity 9 CST150\Activity 9 CST150\obj\Debug\Activity 9 CST150.csproj.CoreCompileInputs.cache
+C:\Users\alcha\source\repos\Activity 9 CST150\Activity 9 CST150\obj\Debug\Activity 9 CST150.exe
+C:\Users\alcha\source\repos\Activity 9 CST150\Activity 9 CST150\obj\Debug\Activity 9 CST150.pdb

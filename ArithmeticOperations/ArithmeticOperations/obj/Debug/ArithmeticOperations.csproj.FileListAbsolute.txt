@@ -1,0 +1,10 @@
+C:\Users\alcha\source\repos\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe.config
+C:\Users\alcha\source\repos\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe
+C:\Users\alcha\source\repos\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.pdb
+C:\Users\alcha\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.csprojAssemblyReference.cache
+C:\Users\alcha\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.Form1.resources
+C:\Users\alcha\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.Properties.Resources.resources
+C:\Users\alcha\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.GenerateResource.cache
+C:\Users\alcha\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.CoreCompileInputs.cache
+C:\Users\alcha\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.exe
+C:\Users\alcha\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.pdb

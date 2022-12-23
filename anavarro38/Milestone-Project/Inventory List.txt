@@ -1,0 +1,8 @@
+ID	Desc.			Price		QTY.
+
+0001	BaseballG		(10.99)		4
+0002	BaseballNG		(9.99)		6
+0003	BeaniesG			(11.99)		17
+0004	BeaniesNG		(9.99)		8
+0005	SnapbackG		(11.99)		4
+0006	SnapbackNG		(8.99)		3

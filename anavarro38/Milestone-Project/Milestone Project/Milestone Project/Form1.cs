@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Milestone_Project
+{
+    public partial class ProductName : Form
+    {
+        public ProductName()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            ProductName1 f2 = new ProductName1();
+            f2.ShowDialog();
+            
+        }
+
+    }
+}
